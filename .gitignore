@@ -1,0 +1,6 @@
+.claude/
+.DS_Store
+node_modules/
+# real recordings never go in this repo
+*.csv
+sample_post-edits*.txt
